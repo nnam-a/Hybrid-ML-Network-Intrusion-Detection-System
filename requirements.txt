@@ -1,0 +1,7 @@
+#The below packages need to be installed to run these scripts
+pandas==2.3.3
+numpy==2.3.5
+scipy==1.16.3
+xgboost==3.1.2
+scikit-learn==1.7.2
+scapy==2.6.1
