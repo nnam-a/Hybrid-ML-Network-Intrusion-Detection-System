@@ -6,6 +6,8 @@ The accompanying pcap network flows must be downloaded from the Canadian Institu
 Ideally, the convert.py file is not needed and the flows can be converted with full features by using the cicflowmeter tool provided by the institute, but network security concerns prevented my use.
 If able to use the tool, there is no need to run the convert.py script
 
+Next steps would be to fully implement using Scapy sniffing
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
